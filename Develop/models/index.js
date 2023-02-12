@@ -10,7 +10,7 @@ Product. belongsTo(Category, {
 });
 
 // Categories have many Products
-Category.hasMany(Products,{
+Category.hasMany(Products, {
   foriegnKey:'category_id'
 
 });
