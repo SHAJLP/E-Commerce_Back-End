@@ -11,7 +11,7 @@ Product.init(
   {
     // define columns
     id: {
-      type: DataTypes.Interger,
+      type: DataTypes.Integer,
       allowNull: false,
       primaryKey: true,
       autoIncrement: true

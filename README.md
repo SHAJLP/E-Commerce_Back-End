@@ -10,7 +10,8 @@ The challenge for this assignment was to build the back-end for an e-commerce si
 This application is built using Express.js, and Sequalize to interact with MYSQL database
 
 INSTALLATION
-___________________________________________________________________________________________ To use this application, please run the following command:
+___________________________________________________________________________________________ 
+To use this application, please run the following command:
 
 npm install.
 
